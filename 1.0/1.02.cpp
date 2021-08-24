@@ -1,3 +1,4 @@
+//最长连续递增子序列
 #include <stdio.h>
 int main()
 {
