@@ -1,4 +1,4 @@
-//两数之后
+//两数之和
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
